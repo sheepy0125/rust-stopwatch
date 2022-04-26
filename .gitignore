@@ -1,1 +1,4 @@
 /target
+*.lock
+Cargo.lock  # why don't you work, .gitignore?
+.gitignore  # questionable
